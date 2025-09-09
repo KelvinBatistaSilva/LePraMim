@@ -1,0 +1,5 @@
+
+pyttsx3>=2.90
+PyPDF2>=3.0.0
+# Opcional para MP3:
+# pydub>=0.25.1
